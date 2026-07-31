@@ -1,0 +1,16 @@
+text,sentiment
+"I love this product, it's amazing!",positive
+"This is the worst experience ever.",negative
+"The movie was okay, not great but not bad.",neutral
+"Absolutely fantastic service.",positive
+"I am so disappointed with the quality.",negative
+"It works as expected.",neutral
+"Highly recommend this to everyone.",positive
+"What a waste of money.",negative
+"The weather is nice today.",neutral
+"This is a truly wonderful place.",positive
+"I will never buy this again.",negative
+"The food was decent.",neutral
+"Customer support was very helpful and friendly.",positive
+"The package arrived damaged and late.",negative
+"An average performance, nothing special.",neutral
